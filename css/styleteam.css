@@ -1,0 +1,140 @@
+body{
+    background: linear-gradient(to top, #ff00c8, rgb(68, 0, 255));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.team{
+    background-color: white;
+    width: 650px;
+    position: absolute;
+    left: 610px;
+    height: 650px;
+    opacity: 65%;
+    border-radius: 5%;
+    top: 100px;
+}
+
+.teamtext{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.zak{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 100px;
+    color: black;
+}
+
+#zak2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    opacity: 1;
+}
+
+.io{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 190px;
+    color: black;
+}
+
+.kola{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 280px;
+    color: black;
+}
+
+.mea{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 370px;
+    color: black;
+}
+
+#io2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 170px;
+    left: 10px;
+    opacity: 1;
+}
+
+#kola2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 260px;
+    left: 10px;
+    opacity: 1;
+}
+
+#mea2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 350px;
+    left: 10px;
+    opacity: 1;
+}
+
+.oti{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 460px;
+    color: black;
+}
+
+.fede{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    left: 90px;
+    font-size: 17px;
+    top: 550px;
+    color: black;
+}
+
+#oti2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 440px;
+    left: 10px;
+    opacity: 1;
+}
+
+#fede2{
+    width: 65px;
+    border-radius: 100%;
+    position: absolute;
+    top: 530px;
+    left: 10px;
+    opacity: 1;
+}
+
+.collab{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16.5px;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 4px 4px rgb(0, 0, 0);
+    top: 870px;
+    position: absolute;
+}
+

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;900&display=swap');
+
+
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(236, 194, 255);
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+.primoparagrafo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 28.5px;
+    text-align: center;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+body{
+    background-image: url(/images/sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tiktok {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 685px;
+    top: 300px;
+    border-radius: 50%;
+}
+
+.instagram {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 835px;
+    top: 300px;
+   
+}
+
+.youtube {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 985px;
+    top: 300px;
+    
+}
+
+.twitter {
+    width: 50px;
+    height: none;
+    position: absolute;
+    left: 1135px;
+    display: block;
+    top: 300px;
+   
+}
+
+.secparagrafo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.collab{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16.5px;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    top: 870px;
+    position: absolute;
+}
+
+.team{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22.5px;
+    left: 860px;
+    display: block;
+    position: absolute;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    top: 500px;
+}
