@@ -5,7 +5,7 @@
 
 h1{
     font-family: 'Nunito', sans-serif;
-    font-size: 50px;
+    font-size: 45px;
     text-align: center;
     color: rgb(236, 194, 255);
     text-shadow: 3px 3px rgb(0, 0, 0);
@@ -13,16 +13,16 @@ h1{
 
 .primoparagrafo{
     font-family: 'Nunito', sans-serif;
-    font-size: 28.5px;
+    font-size: 27.5px;
     text-align: center;
     color: rgb(236, 194, 255);
     text-shadow: 2px 2px rgb(0, 0, 0);
 }
 
 body{
-    background-image: url(/images/sfondo.jpg);
+    background: linear-gradient(to top, #ff00c8, rgb(68, 0, 255));
     background-repeat: no-repeat;
-    background-size: cover;
+    height: 901px;
 }
 
 .tiktok {
@@ -30,7 +30,7 @@ body{
     height: 50px;
     position: absolute;
     left: 685px;
-    top: 300px;
+    top: 450px;
     border-radius: 50%;
 }
 
@@ -39,7 +39,7 @@ body{
     height: 50px;
     position: absolute;
     left: 835px;
-    top: 300px;
+    top: 450px;
    
 }
 
@@ -48,7 +48,7 @@ body{
     height: 50px;
     position: absolute;
     left: 985px;
-    top: 300px;
+    top: 450px;
     
 }
 
@@ -58,7 +58,7 @@ body{
     position: absolute;
     left: 1135px;
     display: block;
-    top: 300px;
+    top: 450px;
    
 }
 
@@ -82,10 +82,20 @@ body{
 .team{
     font-family: 'Nunito', sans-serif;
     font-size: 22.5px;
-    left: 860px;
-    display: block;
-    position: absolute;
     color: rgb(236, 194, 255);
     text-shadow: 2px 2px rgb(0, 0, 0);
-    top: 500px;
+    position: absolute;
+    left: 1600px;
+    top: 10px;
 }
+
+.team2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22.5px;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    position: absolute;
+    left: 1700px;
+    top: 10px;
+}
+
