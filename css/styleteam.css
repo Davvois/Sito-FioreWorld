@@ -138,3 +138,24 @@ body{
     position: absolute;
 }
 
+.team2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22.5px;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    position: absolute;
+    left: 1600px;
+    top: 10px;
+}
+
+.team3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22.5px;
+    color: rgb(236, 194, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    position: absolute;
+    left: 1700px;
+    top: 10px;
+}
+
+
